@@ -8,9 +8,6 @@
   
 - <b>R</b>
   - [Data Mining](https://github.com/britneydang/DataMiningWithR)
-  
-- <b>HTML/CSS/PHP/JavaScript</b>
-  - [Web Based Applications](https://github.com/britneydang/MyFirstWebsite)
 
 <h2> 👨‍💻 Roadmap to Data Engineer</h2>
 
