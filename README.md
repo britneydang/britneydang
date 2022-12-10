@@ -16,7 +16,7 @@
 
 - [Learning Path for Data Engineer](https://github.com/britneydang/LearningPathDE)
 
-<h2> 🌱 Degrees/Certifications </h2>
+<h2> 🌱 Degrees/Certificates </h2>
 
 - [Master of Information Systems at University of Utah](https://eccles.utah.edu/programs/master-of-science-in-information-systems/)
 <h2> 🤳 Connect with me:</h2>
