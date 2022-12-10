@@ -7,7 +7,7 @@
   - [Mini Projects](https://github.com/britneydang/PythonMiniProjects)
   
 - <b>R</b>
-  - [Data Mining](https://github.com/)
+  - [Data Mining](https://github.com/britneydang/DataMiningWithR)
   
 - <b>Java</b>
   - [Data Structures](https://github.com/)
