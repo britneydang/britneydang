@@ -16,7 +16,7 @@
   - [Web Based Applications](https://github.com/)
 
 <h2> 👨‍💻 Roadmap to Data Engineer</h2>
-- [Learning Path for Data Engineer](https://github.com/))
+- [Learning Path for Data Engineer](https://github.com/)
 
 <h2> 🌱 Degrees/Certifications </h2>
 
