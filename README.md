@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Data Structures & Algorithms](https://github.com/)
-  - [Mini Projects](https://github.com/)
+  - [Mini Projects](https://github.com/britneydang/PythonMiniProjects)
   
 - <b>R</b>
   - [Data Mining](https://github.com/)
