@@ -1,6 +1,6 @@
 <h1>Hi, I'm Britney!</h1>
 
-<h2> 👨‍💻 Software Development Projects:</h2>
+<h2> 👨‍💻 Programming:</h2>
 
 - <b>Python</b>
   - [Data Structures & Algorithms](https://github.com/)
