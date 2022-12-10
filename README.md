@@ -9,7 +9,7 @@
 - <b>R</b>
   - [Data Mining](https://github.com/)
   
-- <b>JAVA</b>
+- <b>Java</b>
   - [Data Structures](https://github.com/)
   
 - <b>HTML/CSS/PHP/JavaScript</b>
