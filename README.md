@@ -18,6 +18,7 @@
 
 <h2> 🌱 Degrees/Certifications </h2>
 
+- [Master of Information Systems at University of Utah](https://eccles.utah.edu/programs/master-of-science-in-information-systems/)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
