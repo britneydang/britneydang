@@ -12,7 +12,7 @@
 <h2> 👨‍💻 Data Engineer Roadmap:</h2>
 
 - [Learning Path for Data Engineer](https://github.com/britneydang/LearningPathDE)
-- Hands-on Project: Build an end to end data engineer solution using Azure Data Factory (https://github.com/)
+- [Hands-on Project: COVID-19 - Build an end to end data engineer solution using Azure Data Factory](https://github.com/britneydang/HandsonProject-Covid19)
 
 <h2> 🌱 Degrees/Certificates </h2>
 
