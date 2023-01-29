@@ -12,8 +12,8 @@
 <h2> 👨‍💻 Data Engineer Learning Roadmap:</h2>
 
 - [Hands-on Project: COVID-19 - Build an end to end data engineer solution using Azure Data Factory](https://github.com/britneydang/HandsonProject-Covid19)
-- [Hands-on Project: Basic ETL Using SSIS]()
-- [Hands-on Project: SSIS]()
+- [Hands-on Project: Basic ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
+- [Hands-on Project: Mastering SSIS]()
 
 <h2> 🌱 Degrees/Certificates </h2>
 
