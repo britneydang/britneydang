@@ -18,7 +18,7 @@
 <h2> 🌱 Degrees/Certificates </h2>
 
 - [Master of Information Systems at University of Utah (08/2019 - 08/2022)](https://eccles.utah.edu/programs/master-of-science-in-information-systems/)
-- [Azure Data Engineering Course by TrendyTech (IP)](https://https://trendytech.in/)
+- [Azure Data Engineering Program by TrendyTech (In Progress)](https://https://trendytech.in/)
 
 <h2> 🤳 Connect with me:</h2>
 
