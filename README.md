@@ -13,9 +13,9 @@
 <h2> 👨‍💻 Data Engineer Learning Roadmap:</h2>
 
 - [Hands-on Project: Build an end to end data engineer solution using Azure Data Factory - COVID-19 datasets](https://github.com/britneydang/HandsonProject-Covid19)
-- [Learning SSIS: Basic ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
+- [Self-Learning: Basic ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
 - [Hands-on Project: Mastering SSIS - AdventureWorks2019 datasets](https://github.com/britneydang/HandsonProject_MasteringSSIS)
-- [Learning Alteryx Designer: Basic ETL Using Alteryx]()
+- [Self-Learning: Basic ETL Using Alteryx Designer]()
 
 <h2> 🌱 Degrees/Certificates </h2>
 
