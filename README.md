@@ -15,7 +15,7 @@
 - [Hands-on Project: Build an end to end data engineer solution using Azure Data Factory - COVID-19 datasets](https://github.com/britneydang/HandsonProject-Covid19)
 - [Self-Learning: Basic ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
 - [Hands-on Project: Mastering SSIS - AdventureWorks2019 datasets](https://github.com/britneydang/HandsonProject_MasteringSSIS)
-- [Self-Learning: Basic ETL Using Alteryx Designer]()
+- [Self-Learning: Basic ETL Using Alteryx Designer](https://github.com/britneydang/HandsonProject_BasicAlteryx)
 
 <h2> 🌱 Degrees/Certificates </h2>
 
