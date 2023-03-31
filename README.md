@@ -2,6 +2,7 @@
 
 <h2> 👨‍💻 Programming Languages:</h2>
 
+- <b>SQL</b>
 - <b>Python</b>
   - [Data Structures & Algorithms](https://github.com/)
   - [Mini Projects](https://github.com/britneydang/PythonMiniProjects)
