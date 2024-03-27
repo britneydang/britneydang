@@ -10,8 +10,6 @@
 - <b>R</b>
   - [Data Mining](https://github.com/britneydang/DataMiningWithR)
  
-- <b>Apache Spark</b>
-  -  [PySpark](https://github.com/britneydang/Learning-PySpark)
 
 <h2> 👨‍💻 Data Engineer Learning:</h2>
 
@@ -20,7 +18,8 @@
 - [Hands-on Project: Mastering SSIS - AdventureWorks2019 datasets](https://github.com/britneydang/HandsonProject_MasteringSSIS)
 - [ETL Using Alteryx Designer](https://github.com/britneydang/HandsonProject_BasicAlteryx)
 - [Databricks](https://github.com/britneydang/Learning-Databricks)
-  
+- [PySpark](https://github.com/britneydang/Learning-PySpark)
+-  
 <h2> 🌱 Degrees/Certificates </h2>
 
 - [Master of Information Systems at University of Utah (08/2019 - 08/2022)](https://eccles.utah.edu/programs/master-of-science-in-information-systems/)
