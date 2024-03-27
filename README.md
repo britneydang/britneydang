@@ -16,10 +16,11 @@
 <h2> 👨‍💻 Data Engineer Learning:</h2>
 
 - [Hands-on Project: Build an end to end data engineer solution using Azure Data Factory - COVID-19 datasets](https://github.com/britneydang/HandsonProject-Covid19)
-- [Self-Learning: Basic ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
+- [ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
 - [Hands-on Project: Mastering SSIS - AdventureWorks2019 datasets](https://github.com/britneydang/HandsonProject_MasteringSSIS)
-- [Self-Learning: Basic ETL Using Alteryx Designer](https://github.com/britneydang/HandsonProject_BasicAlteryx)
-
+- [ETL Using Alteryx Designer](https://github.com/britneydang/HandsonProject_BasicAlteryx)
+- [Databricks]
+  
 <h2> 🌱 Degrees/Certificates </h2>
 
 - [Master of Information Systems at University of Utah (08/2019 - 08/2022)](https://eccles.utah.edu/programs/master-of-science-in-information-systems/)
