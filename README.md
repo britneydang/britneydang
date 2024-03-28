@@ -18,7 +18,7 @@
 - [ETL Using Alteryx Designer](https://github.com/britneydang/HandsonProject_BasicAlteryx)
 - [Databricks](https://github.com/britneydang/Learning-Databricks)
 - [PySpark](https://github.com/britneydang/Learning-PySpark)
-- [Hands-on Project: Build an end to end data engineer solution using Azure Synapse Analytics - Taxi datasets]()
+- [Hands-on Project: Implement a data engineering solution using in Azure Synapse Analytics - Taxi datasets](https://github.com/britneydang/HandsonProject-Taxi)
   
 <h2> 🌱 Degrees/Certificates </h2>
 
