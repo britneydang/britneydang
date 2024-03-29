@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1>I'm Britney Dang. Welcome to my little corner where I learn and experiment data technologies/tools on my own. !</h1>
-
+<h1>I'm Britney Dang!</h1>
+<h2>  Welcome to my little corner where I learn and experiment data technologies/tools everyday.  </h2>
 <h2> 👨‍💻 Programming Languages:</h2>
 
 - <b>SQL</b>
