@@ -15,7 +15,7 @@
 
 - [Hands-on Project: Build an end to end data engineer solution using Azure Data Factory - COVID-19 datasets](https://github.com/britneydang/HandsonProject-Covid19)
 - [ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
-- [Hands-on Project: Mastering SSIS - AdventureWorks2019 datasets](https://github.com/britneydang/HandsonProject_MasteringSSIS)
+- [Hands-on Project: Mastering ETL using SSIS - AdventureWorks2019 datasets](https://github.com/britneydang/HandsonProject_MasteringSSIS)
 - [PySpark (not in Databricks)](https://github.com/britneydang/Learning-PySpark)
 - [Hands-on Project: Implement a data engineering solution using in Azure Synapse Analytics - Taxi datasets](https://github.com/britneydang/HandsonProject-Taxi)
   
