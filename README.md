@@ -6,19 +6,17 @@
 
 - <b>SQL</b>
 - <b>Python</b>
-  - [Data Structures & Algorithms](https://github.com/)
   - [Mini Projects](https://github.com/britneydang/PythonMiniProjects)
   
 - <b>R</b>
   - [Data Mining](https://github.com/britneydang/DataMiningWithR)
  
-<h2> 👨‍💻 Data Engineer Projects:</h2>
+<h2> 👨‍💻 My Data Engineer Projects:</h2>
 
 - [Hands-on Project: Build an end to end data engineer solution using Azure Data Factory - COVID-19 datasets](https://github.com/britneydang/HandsonProject-Covid19)
 - [ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
 - [Hands-on Project: Mastering SSIS - AdventureWorks2019 datasets](https://github.com/britneydang/HandsonProject_MasteringSSIS)
 - [ETL Using Alteryx Designer](https://github.com/britneydang/HandsonProject_BasicAlteryx)
-- [Databricks](https://github.com/britneydang/Learning-Databricks)
 - [PySpark](https://github.com/britneydang/Learning-PySpark)
 - [Hands-on Project: Implement a data engineering solution using in Azure Synapse Analytics - Taxi datasets](https://github.com/britneydang/HandsonProject-Taxi)
   
