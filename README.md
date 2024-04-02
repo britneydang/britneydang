@@ -28,4 +28,4 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/britney-d-93521942
+[linkedin]: https://www.linkedin.com/in/britneynd/
