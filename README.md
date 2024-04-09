@@ -17,8 +17,8 @@
 - [Hands-on Project: Mastering ETL using SSIS - AdventureWorks2019 datasets](https://github.com/britneydang/HandsonProject_MasteringSSIS)
 - [Hands-on Project: Implement a data engineering solution using in Azure Synapse Analytics - Taxi datasets](https://github.com/britneydang/HandsonProject-Taxi)
 - [Hands-on Project: Build a data project using Azure Databricks, Azure Data Factory, Unity Catalog, Delta Lake, PySpark, SparkSQL]()
-- [ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
-- [PySpark (not in Databricks)](https://github.com/britneydang/Learning-PySpark)
+- [Mini Project: ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
+- [Mini Project: PySpark](https://github.com/britneydang/Learning-PySpark)
 
 <h2> 🌱 Degrees/Certificates </h2>
 
