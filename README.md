@@ -4,7 +4,6 @@
 <h2>  Welcome to my little corner where I learn and experiment data technologies/tools everyday.  </h2>
 <h2> 👨‍💻 Programming Languages:</h2>
 
-- <b>SQL</b>
 - <b>Python</b>
   - [Mini Projects](https://github.com/britneydang/PythonMiniProjects)
   
