@@ -17,6 +17,7 @@
 - [Hands-on Project: Implement a data engineering solution using in Azure Synapse Analytics - Taxi datasets](https://github.com/britneydang/HandsonProject-Taxi)
 - [Hands-on Project: Build a data project using Azure Databricks, Azure Data Factory, Unity Catalog, Delta Lake - Racing datasets](https://github.com/britneydang/HandsonProject_RacingData)
 - [Hands-on Project: Create Continuous Integration/Continuous Delivery (CI/CD) pipelines in Azure Devops](https://github.com/britneydang/HandsonProject_CICD)
+- [Hands-on Project: Build a data warehouse and an end to end ETL pipeline using Python and SSMS - Milktea datasets](https://github.com/britneydang/ETL_using_Python)
 - [Mini Project: ETL Using SSIS](https://github.com/britneydang/HandsonProject_SSIS)
 - [Mini Project: PySpark](https://github.com/britneydang/Learning-PySpark)
 
